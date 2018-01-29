@@ -1,0 +1,12 @@
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.header{
+    background-color: #3FA2F7;
+    height: 100px;
+    margin-bottom: 30px;
+}
+.header_row{
+    padding-top: 30px;
+}

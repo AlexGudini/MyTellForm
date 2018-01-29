@@ -1,0 +1,11 @@
+.create_form{
+    background-color: darkgray;
+
+    height: 200px;
+    padding-top: 80px;
+    border-radius: 7px;
+    margin-left: 20px;
+}
+.create_form:hover{
+    background-color: skyblue;
+}
